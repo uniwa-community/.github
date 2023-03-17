@@ -1,5 +1,5 @@
 # UniWa-Community
-This is the place were students can contribute to projects related with out daily work in University.
+This is the place were students can contribute to projects related with our daily work in University.
 We are open for new ideas.
 
 # License 
