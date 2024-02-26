@@ -1,11 +1,7 @@
-# UniWa-Community
-This is the place were students can contribute to projects related with our daily work in University.
-We are open for new ideas.
-
-# License 
-All open source software must be written under LGPL (any version),
-no other negotiations.
+# University of West Attica Community
+Welcome to our collaborative space where we actively contribute to projects aligned with our daily endeavors at our university. 
+We enthusiastically embrace fresh ideas and creativity, fostering an environment that encourages innovation.
 
 # Contribution
-## Formatter Standards
-* 4 or 8 tab width 
+* Avoid trunk-based operations whenever possible, use feature-branching.
+* Everything must be signed under GPL or LGPL (any version) and that is absolute.
